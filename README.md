@@ -4,4 +4,4 @@ Visual Studio project template that creates a roles-based authentication project
  - Identity 2.0
  - OWIN Auth
  
- See the [Roles Base repo](https://github.com/Seebiscuit/RolesBase) to contribute to the template.
+See the [Roles Base repo](https://github.com/Seebiscuit/RolesBase) to contribute to the template.
